@@ -28,7 +28,6 @@ code,
 del,
 dfn,
 em,
-img,
 ins,
 kbd,
 q,
@@ -157,7 +156,7 @@ body .card .card__header {
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
   background-color: #2c3e54;
-  padding: 0 20px;
+  padding: 0 10px;
   min-height: 100px;
 }
 html .card .card__header .amount,
@@ -178,8 +177,8 @@ body .card .card__header .amount p {
 }
 html .card .card__header .details,
 body .card .card__header .details {
-  padding-top: 22px;
-  padding-bottom: 22px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   width: 50%;
   display: inline-block;
 }
@@ -188,7 +187,7 @@ body .card .card__header .details p {
   text-align: right;
   color: #fff;
   margin: 0;
-  line-height: 25px;
+  line-height: 15 px;
   font-size: 14px;
 }
 html .card .card__header .details p#business_name,
