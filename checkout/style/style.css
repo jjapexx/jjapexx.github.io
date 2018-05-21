@@ -20,11 +20,11 @@ acronym,
 address,
 big,
 cite,
+img,
 code,
 del,
 dfn,
 em,
-img,
 ins,
 kbd,
 q,
@@ -127,7 +127,7 @@ table {
 }
 html,
 body {
-  background-color: rgba(1,186,170,0.48);
+  background-color: #ffffff;
   font-family: 'Roboto', 'Helvetica', sans-serif;
   font-weight: 300;
   position: relative;
